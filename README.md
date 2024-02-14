@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **finishing undergrad at Northwood University**
 
-- 🌱 I’m currently learning **JavaScript, C++**
+- 🌱 I’m currently learning **JavaScript, C#**
 
 - 📫 How to reach me **wilsonga0429@gmail.com**
 
